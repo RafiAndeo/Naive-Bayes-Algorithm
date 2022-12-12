@@ -170,10 +170,9 @@ Feel free to ask questions on the [mailing list](https://groups.google.com/forum
 
 As contributors and maintainers to this project, you are expected to abide by pandas' code of conduct. More information can be found at: [Contributor Code of Conduct](https://github.com/pandas-dev/.github/blob/master/CODE_OF_CONDUCT.md)
 
-<h1 align="center">
-<img src="/branding/logo/primary/numpylogo.svg" width="300">
-</h1><br>
-
+<div align="center">
+  <img src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png"><br>
+</div>
 
 [![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](
 https://numfocus.org)
